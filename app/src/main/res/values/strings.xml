@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="strCurrentSelected">目前選擇：</string>
+    <string name="strTips">提示</string>
+
 </resources>
